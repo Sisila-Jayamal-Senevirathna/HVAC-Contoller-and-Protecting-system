@@ -1,4 +1,4 @@
-# HVAC-Contoller-and-Protecting-system
+# HVAC-Contoller-and-Protecting-system using Embbeded C
 Cooling a home using a conventional air conditioning system is not very efficient. The main objective of the project is to measure the indoor and outdoor temperature and control the AC through an energy-efficient temperature and start a ventilation system if required. This embedded system is controlled using an ATmega-328P microcontroller and programmed using C programming language.
 
 ## Problem statement
@@ -30,12 +30,8 @@ The Final code was upload.
 
 ![image](https://user-images.githubusercontent.com/108692258/196803911-ece89e62-cdb4-4dce-a150-509b1cfb9e29.png)
 
-![IMG-20221020-WA0015](https://user-images.githubusercontent.com/108692258/196805453-64991774-0e6a-4ab4-8f18-cad98522c66c.jpg)
+<img width="640" alt="Main board" src="https://user-images.githubusercontent.com/108692258/196812196-74cc0f79-5e62-4c9a-9330-8961cec4dda5.png">
 
-![IMG-20221020-WA0014](https://user-images.githubusercontent.com/108692258/196807094-6553147d-1282-4b62-919f-3d98aa3e425d.jpg)
-
-
-![IMG-20221020-WA0020](https://user-images.githubusercontent.com/108692258/196805490-06742cc2-087a-4f33-a855-d893a5297f20.jpg)
 
 ![image](https://user-images.githubusercontent.com/108692258/196804081-20ef9b7a-f1aa-4991-ae47-2b26bbbb90f7.png)
 
@@ -57,7 +53,9 @@ The Final code was upload.
 ![image](https://user-images.githubusercontent.com/108692258/196807146-4f41aabe-a70a-47db-a028-0c4d25db25c7.png)
 
 
-#### Design and Documented by;
-#### Sisila Jayamal Senevirathna.
+##### Design and Documented by;
+Sisila Jayamal Senevirathna.
+Faculty of engineering,
+University of Jaffna
 
 
