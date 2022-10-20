@@ -55,7 +55,8 @@ The Final code was upload.
 
 ##### Design and Documented by;
 Sisila Jayamal Senevirathna.
-Faculty of engineering,
+Faculty of Engineering,
 University of Jaffna
+All Rights Reserved!
 
 
